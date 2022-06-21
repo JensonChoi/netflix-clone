@@ -1,4 +1,4 @@
-# A Netflix Clone built using React, GraphQL and DataStax
+# Netflix Clone built using React, GraphQL and DataStax Astra DB
 The frontend is built using React.js, exploring advanced UI features such as pagination and slicing
 
 The movie data is stored using Datastax Astra DB powered by Apache Cassandra
