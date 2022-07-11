@@ -3,7 +3,7 @@ The frontend is built using React.js, and the movie data is stored using Datasta
 
 Server side code is deployed as API endpoints using Netlify serverless functions
 
-The database is queried using the GraphQL API, and pagination in GraphQL is applied to accommodate devices of different sizes
+The database is queried using the GraphQL API, and GraphQL pagination is applied to accommodate devices of different sizes
 
 ## Homepage
 <img src="https://github.com/JensonChoi/netflix-clone/blob/main/assets/homepage.gif" width="1000" height="600" />
